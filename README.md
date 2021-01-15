@@ -2,10 +2,12 @@
 
 I'm working at the Institut Pasteur. My main focus is on imaging-based biomedical research. Most of these developments are open-source and are reflected in the various repositories you can find here. 
 
-[![Florian's github stats](https://github-readme-stats.vercel.app/api?username=muellerflorian)](https://github.com/muellerflorian/github-readme-stats)
+[![Florian's github stats](https://github-readme-stats.vercel.app/api?username=muellerflorian&theme=dracula)](https://github.com/muellerflorian/github-readme-stats)
 
 <!--
 **muellerflorian/muellerflorian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muellerflorian&theme=dracula))](https://github.com/muellerflorian/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
