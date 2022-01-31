@@ -1,6 +1,6 @@
 ### welcome
 
-I'm working at the Institut Pasteur. My main focus is on imaging-based biomedical research. Most of these developments are open-source and are reflected in the various repositories you can find here. 
+I'm working at the Institut Pasteur. My main focus is on imaging-based biomedical research. These developments are open-source and are reflected in the various repositories you can find here. 
 
 [![Florian's github stats](https://github-readme-stats.vercel.app/api?username=muellerflorian&theme=dracula)](https://github.com/muellerflorian/github-readme-stats)
 
